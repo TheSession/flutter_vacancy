@@ -13,9 +13,9 @@
 [Вакансия](https://hh.ru/vacancy/88347564?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Sessia)
 -----
 
-Ссылку на выполненное тестовое задание отправляйте в telegram:
-* [Станислав](gss@sessia.dev) 
-* [Петр](pk@sessia.dev)
+Ссылку на выполненное тестовое задание отправляйте на почту:
+* Станислав - gss@sessia.dev
+* Петр - pk@sessia.dev
 
 ----
 
